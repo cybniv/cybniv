@@ -1,18 +1,15 @@
 ### Hi there 👋
 
-![GitHub stats](https://github-readme-stats-ten-silk-49.vercel.app/api?username=cybniv&count_private=true&hide=issues,contribs&show_icons=true&theme=transparent&border_radius=9&show=prs_merged_percentage&custom_title=GitHub%20Stats&disable_animations=true)
+you can check my website to see what I'm currently working on or to find ways to contact me.
 
-<!--
-**cybniv/cybniv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As you already began reading at this point, you may as well enjoy some of my favorite quotes from Linus Torvalds:
 
-Here are some ideas to get you started:
+> Software is like sex, it's better when it's free.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> If you need more than 3 levels of indentation, you’re screwed anyway, and should fix your program.
+
+> Those that can, do. Those that can't, complain.
+
+> Intelligence is the ability to avoid doing work, yet getting the work done.
+
+> Microsoft isn't evil, they just make really crappy operating systems.
